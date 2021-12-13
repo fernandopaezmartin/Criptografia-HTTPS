@@ -43,6 +43,7 @@ Cuando el navegador hace una petición al sitio seguro de Facebook por ejemplo, 
 En base a esta información enviada por el navegador, el servidor web de Facebook responde con un mensaje informando que está de acuerdo en establecer la conexión segura con los datos de SSL/TLS proporcionados.
 
 Una vez que ambos conocen los parámetros de conexión, el sitio de Facebook presenta su certificado digital al navegador web para identificarse como un sitio confiable.
+
 ![fcbook](https://github.com/fernandopaezmartin/Criptografia-HTTPS/blob/main/imagenes/fcbook.png)
 
 # Validez del Certificado
