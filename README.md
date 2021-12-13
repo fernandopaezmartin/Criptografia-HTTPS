@@ -43,7 +43,7 @@ Cuando el navegador hace una petición al sitio seguro de Facebook por ejemplo, 
 En base a esta información enviada por el navegador, el servidor web de Facebook responde con un mensaje informando que está de acuerdo en establecer la conexión segura con los datos de SSL/TLS proporcionados.
 
 Una vez que ambos conocen los parámetros de conexión, el sitio de Facebook presenta su certificado digital al navegador web para identificarse como un sitio confiable.
-![fcbook](https://user-images.githubusercontent.com/91086906/145902950-2089256d-9787-4cae-b23f-180a13de2e22.JPG)
+![fcbook](https://github.com/fernandopaezmartin/Criptografia-HTTPS/blob/main/imagenes/fcbook.png)
 
 # Validez del Certificado
 
@@ -54,11 +54,11 @@ Una vez que el navegador tiene el certificado del sitio web de Facebook, realiza
 
 ## Certificado de Facebook
 
-![Certifcbook](https://user-images.githubusercontent.com/91086906/145903732-40d96dc7-fc6b-44cb-bc6b-822a33b4dc4d.JPG)
+![Certifcbook](https://github.com/fernandopaezmartin/Criptografia-HTTPS/blob/main/imagenes/Certifcbook.png)
 
 ## Certificado raiz en el navegador, emitido por CA DigiCert Inc
 
-![CA_Facebook](https://user-images.githubusercontent.com/91086906/145903816-f6dd0a15-a4e2-41f7-aa8b-b75a8b486920.png)
+![CA_Facebook](https://github.com/fernandopaezmartin/Criptografia-HTTPS/blob/main/imagenes/CA_Facebook.png)
 
 
 ## Certificado NO SEGURO
@@ -66,7 +66,7 @@ Una vez que el navegador tiene el certificado del sitio web de Facebook, realiza
 La mayoría de los navegadores web alertan al usuario cuando visita sitios que tienen certificados de seguridad no válidos. 
 
 
-![Cert no val](https://user-images.githubusercontent.com/91086906/145905571-c5e3ff1d-982b-4715-a38c-5bd626c0eb4e.png)
+![Cert no val](https://github.com/fernandopaezmartin/Criptografia-HTTPS/blob/main/imagenes/Cert%20no%20val.png)
 
 
 ## Algunas diferencias entre HTTPS, SSL y TLS
@@ -78,12 +78,12 @@ Antes de desaparecer Netscape, éste cedió el control del protocolo SSL a la IE
 
 ## Versiones de navegadores que soportan la última versión de TLS 1.3
 
-![tls](https://user-images.githubusercontent.com/91086906/145904831-7d37c989-6c60-460e-ab93-04f976ed439d.png)
+![tls](https://github.com/fernandopaezmartin/Criptografia-HTTPS/blob/main/imagenes/tls.png)
 
 
 ## Comprobación de que el navegador cliente soporta SSL
 
-![Navegador_SSL](https://user-images.githubusercontent.com/91086906/145905051-06dd64b1-c39d-40b4-ab9e-cdccad5f52b8.png)
+![Navegador_SSL](https://github.com/fernandopaezmartin/Criptografia-HTTPS/blob/main/imagenes/Navegador_SSL.png)
 
 
 
