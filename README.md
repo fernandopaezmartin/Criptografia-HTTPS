@@ -1,4 +1,8 @@
-# Criptografia-HTTPS
+
+![hhtp-https](https://github.com/fernandopaezmartin/Criptografia-HTTPS/blob/main/imagenes/hhtp-https.png)
+
+
+# Criptografia HTTPS
 
 Cada vez más las páginas web están protegidos por HTTPS. Con ésto indican que es segura. Esa diferencia con el protocolo tradicional de http quiere decir que es una navegación navegación web cifrada para comunicarse con otros servidores web.
 
